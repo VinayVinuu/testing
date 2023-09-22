@@ -1,0 +1,162 @@
+Java / 
+Indeed 
+monster
+ziprecurter
+dice
+
+
+Java developer 5 years
+
+Name: Vinay Chitharla
+last Digit of SSN : 9882
+Work authorization: F1
+First entry in us: oct 5, 2021
+Current location: Texas
+Joining availability : immediately
+Willing to relocate: yes
+DOB: Oct 3, 1998
+Education Details: Master in computer science in WEstcliff university, 2021-23.
+Btech in computer science in Avn institute of engineering and technology. 2016-20.
+email: vinayking751@gmail.com
+ph no: 657-261-5501
+
+https://www.linkedin.com/in/vinay-ch-0b60b520a
+
+
+Java Full Stack 8 years
+
+Name: Vinay Chitharla
+last Digit of SSN : 9882
+Work authorization: GC
+Current location: Texas
+Joining availability : immediately
+Willing to relocate: yes
+DOB: Oct 3, 1992
+Education: Bachelors in computer science
+E-mail: vinaychi572@gmail.com
+Ph No:  469-202-8558
+Linkedin profile: https://www.linkedin.com/in/vinay-c-39494b239
+
+ pp no: U6697747
+
+Frontend UI
+
+Name: Vinay Chitharla
+last Digit of SSN : 9882
+Work authorization: GC
+Current location: Texas
+Joining availability : immediately
+Willing to relocate: yes
+DOB: Oct 3, 1992
+Education: Bachelors in computer science
+E-mail: vinayv8558@gmail.com
+Ph no: 785-209-9457
+Linkedin profile: https://www.linkedin.com/in/vinay-c-39494b239
+
+
+
+Devops 8 years
+
+Name: Vinay Chitharla
+last Digit of SSN : 9882
+Work authorization: GC
+Current location: Texas
+Joining availability : immediately
+Willing to relocate: yes
+DOB: Oct 3, 1992
+Education: Bachelors 
+E-mail: vinaychg901@gmail.com
+Ph No:  657-551-2199
+Linkdin : https://www.linkedin.com/in/vinay-ch-81948b249
+
+
+
+Certificate: devops boards 
+https://coursera.org/share/6889b205114d914eeecdd395308a4a59
+
+
+
+
+
+Subject: Seeking Internship Referral
+Hi Vinay,
+I hope this message finds you well. I'm pursuing an internship in Cloud/PowerBI/SQL and your expertise is inspiring. Could you kindly consider providing a LinkedIn referral if any suitable opportunities come your way?
+Thank you for your time
+
+
+
+
+1. Randstand
+2. Adecco
+3. Robert Half
+4. Kelly Services
+5. TrueBlue
+6. Manpower Group
+7. Express Employment Professionals
+8. Integrity Staffing Solutions
+9. EmployBridge
+10. Aerotek
+11. Remedy Intelligent Staffing
+12. Elwood Staffing
+13. Spherion
+14. Insight Global
+15. Kforce
+16. CoWorx Staffing Services
+17. Volt
+18. Addison Group
+19. Collabera
+20. SNI Companies
+21. The Judge Group
+
+1. Adecco
+2. Randstad
+3. Kelly Services
+4. EmployBridge
+5. Labor Finders
+6. Trillium
+7. CoWorx Staffing Services
+8. Integrity Staffing Solutions
+9. Hire Dynamics
+10. The Execu|Search Group
+11. Advanced Resources
+12. KNF&T
+13. Keepers Staffing
+14. Frontline Source Group
+
+1.  TEKsystems
+2.  Modis
+3.  Epitec
+4.  Diversant
+5.  Bridge Technical Talent
+6.  EdgeLink
+7.  WunderLand
+8.  52 Limited
+9. Stafflink Solutions
+
+
+
+
+
+
+Designed and implemented CI/CD pipelines using Jenkins, facilitating automated testing and deployment processes.
+Orchestrated containerized applications using Docker and managed container orchestration with Kubernetes.
+Administered Solaris systems, ensuring high availability and performance optimization.
+Implemented Infrastructure as Code (IaC) using Terraform for AWS and Azure cloud environments.
+Utilized Ansible for configuration management and automation of routine tasks.
+Managed and monitored AWS services including EC2, RDS, S3, ELB, CloudWatch, SNS, VPC, and subnets.
+Collaborated with development teams to troubleshoot and optimize Java and Python applications.
+Maintained version control and collaborated with team members using Git and GitHub.
+Created and optimized SQL queries for database operations.
+
+
+Managed Linux (Ubuntu) and Windows servers, ensuring system stability and security.
+Developed and deployed applications in Java and Python environments.
+Configured and maintained version control systems including Git.
+Implemented and managed virtualization technologies for efficient resource utilization.
+
+Managing services, maintaining and managing log files, monitoring events, logs and troubleshooting system problems using Nagios tool and resolve for any reported issues
+ 	   Education and Training   	
+Master of Science: Computer Science, 06/2023 
+Westcliff University - Irvine, CA
+Bachelor of Science: Computer Science, 04/2020 
+AVN Institute of Engineering And Technology - Hyderabad, India 
